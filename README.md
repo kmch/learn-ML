@@ -1,1 +1,2 @@
-# learning-keras
+# Learn machine learning
+`scikit`, `keras`, ...
